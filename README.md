@@ -6,5 +6,6 @@ web design
 ### web copy study
 
 ```
-http://google.com
+http://github.com/kimhyosunnn
 ```
+
